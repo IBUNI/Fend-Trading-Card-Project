@@ -1,0 +1,22 @@
+/* add your CSS here */
+ul {list-style-type: none; 
+	padding-left: 3px;
+   }
+
+li span {font-weight:bold;}
+
+li {text-align:left}
+
+.card {
+      height: 550px;
+      width: 300px;
+      box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.34);
+      border-radius: 4px;
+      padding: 8px;
+      border:1px solid #f5f5f5;
+      font-size: 14px;
+      font-family: Times, Times New Roman, Georgia, serif;
+     }
+      
+.info {border:1px solid #f5f5f5;margin-top:10px
+    }
